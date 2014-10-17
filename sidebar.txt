@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[skb:home|Door43 (skb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-skb|d43-skb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-skb/archive/master.zip|d43-skb.zip]]
+
+**Recent Changes**
+{{changes>ns = skb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/skb|Ethnologue data]]
+
